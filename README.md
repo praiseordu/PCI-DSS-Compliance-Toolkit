@@ -10,7 +10,6 @@ Businesses dealing with cardholder data face significant security challenges. Co
 1. **Clone the Repository**
 
 ' ' 'bash
-
 git clone https://github.com/praiseordu/pci-dss-compliance-toolkit.git
 
 cd pci-dss-compliance-toolkit
