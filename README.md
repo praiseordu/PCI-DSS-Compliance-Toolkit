@@ -39,4 +39,4 @@ How to Contribute
 We welcome contributions from the cybersecurity community. Whether it's improving documentation, suggesting new features, or providing additional tools, your input is valuable. Fork the repository, make your changes, and submit a pull request to contribute to the ongoing enhancement of the PCI DSS Compliance Toolkit.
 License
 
-This project is open-source and released under the [Your Chosen Open-Source License]. Join us in our mission to strengthen the security posture of organizations handling cardholder data.
+This project is open-source and released under the [GNU GENERAL PUBLIC LICENSE]. Join us in our mission to strengthen the security posture of organizations handling cardholder data.
