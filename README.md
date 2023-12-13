@@ -1,13 +1,14 @@
-PCI DSS Compliance Toolkit
-Overview
+# PCI DSS Compliance Toolkit
+## Overview
 
 The PCI DSS Compliance Toolkit is an open-source project designed to assist organizations in achieving and maintaining compliance with the Payment Card Industry Data Security Standard (PCI DSS). In an era where secure handling of cardholder data is paramount, this toolkit provides essential resources, tools, and documentation to streamline the compliance process.
-Importance for Businesses
+## Importance for Businesses
 
 Businesses dealing with cardholder data face significant security challenges. Compliance with PCI DSS is not only a regulatory requirement but a crucial step toward ensuring the trust and security of financial transactions. The PCI DSS Compliance Toolkit equips organizations with the necessary tools and knowledge to fortify their systems, protect sensitive information, and meet the rigorous standards set by the payment card industry.
-Quick Start Guide
-1. Clone the Repository
-   
+## Quick Start Guide
+
+** Clone the Repository **
+''' bash   
 git clone https://github.com/praiseordu/pci-dss-compliance-toolkit.git
 
 cd pci-dss-compliance-toolkit
