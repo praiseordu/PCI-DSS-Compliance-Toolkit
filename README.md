@@ -7,7 +7,6 @@ Importance for Businesses
 Businesses dealing with cardholder data face significant security challenges. Compliance with PCI DSS is not only a regulatory requirement but a crucial step toward ensuring the trust and security of financial transactions. The PCI DSS Compliance Toolkit equips organizations with the necessary tools and knowledge to fortify their systems, protect sensitive information, and meet the rigorous standards set by the payment card industry.
 Quick Start Guide
 1. Clone the Repository
-
 git clone https://github.com/praiseordu/pci-dss-compliance-toolkit.git
 cd pci-dss-compliance-toolkit
 
