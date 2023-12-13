@@ -27,10 +27,10 @@ Businesses dealing with cardholder data face significant security challenges. Co
 
 4. **Log Monitoring**
 
-    Execute the `PCI_Log_Monitoring_Script.sh` shell script to monitor logs and ensure compliance with PCI DSS logging requirements.
+    Execute the `PCI_Log_Monitoring_Script.py` shell script to monitor logs and ensure compliance with PCI DSS logging requirements.
 
     ```bash
-    ./PCI_Log_Monitoring_Script.sh
+    python PCI_Log_Monitoring_Script.sh
     ```
 
 5. **File Integrity Monitoring**
